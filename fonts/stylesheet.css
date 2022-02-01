@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '32bit';
+    src: url('32bit.woff2') format('woff2'),
+        url('32bit.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
